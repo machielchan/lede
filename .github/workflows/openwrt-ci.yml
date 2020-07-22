@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-CI
+name: OpenWrt-lede-20200723
 
 on:
   schedule:
